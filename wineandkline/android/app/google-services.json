@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "124372920481",
+    "project_id": "klinify-115a9",
+    "storage_bucket": "klinify-115a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124372920481:android:2449f4f0444e83b580a8e0",
+        "android_client_info": {
+          "package_name": "com.example.wineandkline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124372920481-tektsrcqf6lkd0k3nipukbpd97v68s3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRv_Oo0Y0WU8QCrsEng6VpNxoeERZDC1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124372920481-tektsrcqf6lkd0k3nipukbpd97v68s3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124372920481-k1q0aj3kjs3mcm7d1d8dd4e05eedaqm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wineandkline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
